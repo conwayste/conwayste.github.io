@@ -1,2 +1,2 @@
-# conwayste.github.io
-GitHub Pages for conwayste.rs
+# conwayste.rs
+[Coming soon!](https://github.com/conwayste/conwayste)
